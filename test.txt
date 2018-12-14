@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-hello world ni hao huai liaozhi
-=======
 hello world ni hao 
->>>>>>> parent of 52b1c1b... xiugai2
+
