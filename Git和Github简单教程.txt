@@ -27,9 +27,9 @@
 	
 	执行git push -u origin master 将本地仓库上传至Github的仓库并进行关联
 	本地仓库推送到远程仓库:
-	git push -u origin master
+	ush -u origin master  [上传并指定默认]  [指定origin为默认主机，以后push默认上传到origin上]
 	
-     a 报错了(fatal: refusing to merge unrelated histories）
+     报错(fatal: refusing to merge unrelated histories）
 	 
 	git pull origin master --allow-unrelated-histories
 	
